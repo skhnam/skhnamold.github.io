@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Safeena Khanam</h1>
-<p align="center"><strong>Master's Student at University of Bridgeport</strong></p>
+<p align="center"><strong>Master's Student | University of Bridgeport</strong></p>
 
 <p align="center">
   📞+1 (848) 256-3215 📧skhanam@my.bridgeport.edu 🔗https://linkedin.com/in/safeena-khanam-a641a6203 
