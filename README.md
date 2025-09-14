@@ -1,9 +1,18 @@
 <h1 align="center">🌟 Safeena Khanam</h1>
-<p align="center"><strong>DevOps & Cloud Engineer | Educator | AI Enthusiast</strong></p>
+<p align="center"><strong>DevOps & Cloud Engineer | AI Enthusiast</strong></p>
 
 <p align="center">
-  <a href="https://github.com/your-github-username" target="_blank">🔗 View My GitHub Profile</a> • 
-  <a href="mailto:skhanam@my.bridgeport.edu" target="_blank">📬 Get in Touch</a>
+  <a href="" target="_blank">🔗 View My GitHub Profile</a> • 
+  <a href=" ## 📬 Get in Touch
+
+Reach out for collaboration, freelance projects, or just a great conversation!
+
+- 📞 **Phone:** +1 (123) 456-7890  
+- 📧 **Email:** [skhanam@my.bridgeport.edu](mailto:skhanam@my.bridgeport.edu)  
+- 🔗 **LinkedIn:** [Safeena Khanam](https://linkedin.com/in/safeena-khanam-a641a6203)  
+- 🗂️ **GitHub:** [@safeenakhanam](https://github.com/safeenakhanam)  
+- 📍 **Location:** Bridgeport, CT, USA  
+">📬 Get in Touch</a>
 </p>
 
 ---
