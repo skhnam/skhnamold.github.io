@@ -2,8 +2,6 @@
 <p align="center"><strong>DevOps & Cloud Engineer | AI Enthusiast</strong></p>
 
 <p align="center">
-  <a href="" target="_blank">🔗 📬 Get in Touch</a> • 
-  <a href=" ## 📬Reach out for a great conversation!
 - 📞 **Phone:** +1 (123) 456-7890  
 - 📧 **Email:** [skhanam@my.bridgeport.edu](mailto:skhanam@my.bridgeport.edu)  
 - 🔗 **LinkedIn:** [Safeena Khanam](https://linkedin.com/in/safeena-khanam-a641a6203)  
