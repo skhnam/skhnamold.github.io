@@ -1,112 +1,100 @@
-# 👩‍💻 Safeena Khanam Portfolio
+<h1 align="center">🌟 Safeena Khanam</h1>
+<p align="center"><strong>DevOps & Cloud Engineer | Educator | AI Enthusiast</strong></p>
 
-Welcome to my professional portfolio! I am a passionate and detail-oriented Cloud Engineer with a strong academic foundation and hands-on experience in cloud infrastructure, automation, and networking. This portfolio showcases my projects, skills, and experience in DevOps, Cloud Computing, Software Development, and more.
-
----
-
-## 📞 Contact
-
-- 📧 Email: [skhanam@my.bridgeport.edu](mailto:skhanam@my.bridgeport.edu)  
-- 📱 Phone: (848) 256-3215  
-- 🔗 LinkedIn: [linkedin.com/in/safeena-khanam-a641a6203](https://linkedin.com/in/safeena-khanam-a641a6203)
+<p align="center">
+  <a href="https://github.com/your-github-username" target="_blank">🔗 View My GitHub Profile</a> • 
+  <a href="mailto:skhanam@my.bridgeport.edu" target="_blank">📬 Get in Touch</a>
+</p>
 
 ---
 
-## 🧠 Technical Skills
+## 👋 Welcome
 
-- **Languages:** C, Python, MATLAB  
-- **Cloud Platforms:** AWS  
-- **DevOps Tools:** Ansible, Terraform, GitHub, Puppet, Kubernetes, Jenkins (CI/CD), Chef, VMware  
-- **Monitoring:** New Relic, SolarWinds, DataDog, Mulesoft  
-- **System Tools:** Active Directory, LVM, FDisk, GDisk, Parted, Swap  
-- **Integration & Ticketing:** Jira, ServiceNow, BigPanda  
-- **Languages Spoken:** English, Hindi, Urdu, Telugu, Kannada, Tamil (Beginner)
+Welcome to my professional portfolio! I’m a Cloud & DevOps Engineer with a passion for infrastructure automation, cloud-native technologies, and teaching. With experience across **enterprise systems**, **cloud platforms**, and **DevOps toolchains**, I thrive on building reliable, scalable, and secure systems.
 
 ---
 
-## 🎓 Education
+## 🧠 Current Role
 
-### 🏫 University of Bridgeport  
-**M.Tech in Computer Science and Engineering**  
-*GPA: 3.9/4.0*  
-📍Bridgeport, CT | 📅 Dec 2025  
-Relevant Coursework: Object-Oriented Programming, AWS, DevOps  
+**Cloud Intern**  
+🔹 NJ TRANSIT  
+📍 Newark, NJ  
+📅 June 2025 – August 2025  
 
-### 🏫 Lingayas Institute of Management and Technology  
-**B.Tech in Electronics and Telecommunication Engineering**  
-*GPA: 9.0/10.0*  
-📍Buford, GA | 📅 May 2024  
-Activities:  
-- Optical Fiber Project (Team Lead)  
-- IoT Workshop  
-- Toastmasters Club (Secretary)
+Contributing to performance monitoring, data center automation, and security enhancements across hybrid infrastructure environments.
+
+---
+
+## 📬 Get in Touch
+
+Reach out for collaboration, freelance projects, or just a great conversation!
+
+- 📧 **Email:** [skhanam@my.bridgeport.edu](mailto:skhanam@my.bridgeport.edu)  
+- 🔗 **LinkedIn:** [Safeena Khanam](https://linkedin.com/in/safeena-khanam-a641a6203)  
+- 🗂️ **GitHub:** [@your-github-username](https://github.com/your-github-username)  
+- 📍 **Location:** Bridgeport, CT, USA  
+
+---
+
+## 📝 Publication
+
+**Optical Fiber Design & Evaluation using OptiFiber**  
+📰 Final Year Research | Lingayas Institute  
+- Simulated 20+ fiber profiles (step/graded index)  
+- Delivered 85% correlation between theory and simulation  
+- Proposed optimization paths for low-loss fiber designs  
+
+> *Read More (PDF or Link Coming Soon)*
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI Chatbot for Knowledge Retrieval
+Fine-tuned open-source models (Dolly-v2, BLOOM-3B) for domain-specific Q&A, integrating BART summarization and Knowledge Graphs.
+
+[🔍 View Project](#)
+
+---
+
+### 🔹 Auto Job Applier (Coming Soon)
+A CLI & web-based tool for automating job applications using Selenium, ATS keyword matching, and GPT-driven resume tailoring.
+
+[⏳ In Development](#)
+
+---
+
+### 🔹 Network Design using Smallworld GIS
+Deployed FTTH and 5G backbone network layouts, reducing latency and boosting throughput for telecom infrastructure.
+
+[📈 Learn More](#)
+
+---
+
+### 🔹 Jenkins-Based CI/CD for AWS Infra
+Set up pipeline with Terraform, Ansible, and Jenkins to manage scalable AWS infrastructure with zero-downtime deployment.
+
+[🛠 View Setup](#)
 
 ---
 
 ## 💼 Work Experience
 
-### 🚆 NJ TRANSIT – Cloud Intern  
-📍 Newark, NJ | 📅 Jun 2025 – Aug 2025  
-- Supported development and monitoring of 800+ cloud and on-site servers  
-- Authored user manuals for tools like BigFix, Active Directory, and Rubrik  
-- Worked on automation and infosec enhancements across 4 data centers
+### 🔧 DevOps Engineer – ITOrizon Pvt Ltd  
+📍 Bangalore, India | Aug 2021 – Jun 2023  
+- Managed CI/CD pipelines and incident workflows  
+- Handled 20–30 daily tickets (Jira, ServiceNow)  
+- Reduced node failover downtime by 25%  
 
-### 👩‍🏫 University of Bridgeport – Teaching Assistant (Reinforcement Learning)  
-📍 Bridgeport, CT | 📅 Jan 2025 – May 2025  
-- Assisted students with programming tasks during 15+ hours of weekly office hours  
-- Independently graded 1700+ assignments and tests  
-- Managed class communications in the absence of the professor
-
-### 🛠 ITOrizon Pvt Ltd – DevOps Engineer  
-📍 Bangalore, IND | 📅 Aug 2021 – Jun 2023  
-- Led daily/weekly meetings for optimization and incident resolution  
-- Managed 20–30 tickets/day via Jira, BigPanda, and ServiceNow  
-- Reduced downtime by 25% through effective node failover mitigation
-
-### 🌐 Cyient Ltd – Network & Telecom Engineer  
-📍 Hyderabad, IND | 📅 Dec 2020 – Aug 2021  
-- Designed FTTH/5G fiber backbones with Smallworld GIS  
-- Reduced signal overlap by 30% with frequency layout optimization  
-- Ensured compliance with BNetzA/EU standards
+### 🌐 Network Engineer – Cyient Ltd  
+📍 Hyderabad, India | Dec 2020 – Aug 2021  
+- Designed telecom networks using GIS  
+- Achieved EU compliance & cut approval times by 20%  
 
 ---
 
-## 💡 Projects
+## 👩‍🏫 Teaching Experience
 
-### 🤖 AI Chatbot (In Progress)  
-📍 Bridgeport, CT | 📅 Jan 2025 – Present  
-- Fine-tuned Dolly-v2-3B and BLOOM-3B for context-aware Q&A  
-- Developed pipeline using Knowledge Graphs and BART summarization  
-- Reduced irrelevant outputs by 40%, improving response quality
-
-### 🔬 Optical Fiber Design (Optifiber) – Team Lead  
-📍 Nunna, IND | 📅 Jan 2025 – May 2025  
-- Designed 20+ fiber profiles with <2% error in index calculations  
-- Ran 30+ simulations with 85% theoretical correlation  
-- Proposed 3 optimizations for future research
-
----
-
-## 🚀 How to Use This Portfolio
-
-This portfolio is built using GitHub and showcases:
-
-- ✅ My Resume and Work History  
-- ✅ Technical Projects and Research  
-- ✅ Skills in DevOps, Cloud, and Networking  
-- ✅ Contact Information and Links  
-
----
-
-## 📌 Future Additions
-
-- 🎥 Project Demos  
-- 📊 Interactive Dashboards  
-- 📂 Resume PDF Download  
-- 🌐 Portfolio Website Link (Deployed via GitHub Pages or Netlify)
-
----
-
-> _“Learning never exhausts the mind.”_ – Leonardo da Vinci
-
-Thanks for visiting my portfolio!
+### Teaching Assistant – Reinforcement Learning  
+📍 University of Bridgeport | Jan 2025 – May 2025  
+- Supported 1700+ assessments, hosted live office hours, and co-led sessions on RL algo
