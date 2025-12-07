@@ -2,7 +2,7 @@
 <p align="center">Cloud Architect • DevOps Engineer • AI Enthusiast</p>
 
 <p align="center">
-  📞+1 (848) 256-3215 📧skhanam@my.bridgeport.edu 🔗https://linkedin.com/in/safeena-khanam-a641a6203 
+  📞+1 (848) 256-3215 📧skhanam@my.bridgeport.edu 🔗https://shorturl.at/ETtmT
   📍Bridgeport, CT, USA  
 </p>
 
