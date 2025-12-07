@@ -41,4 +41,4 @@ I’m a Cloud & DevOps Engineer with a passion for infrastructure automation, cl
   <br/>
   <code>skhanam@my.bridgeport.edu</code>
 </p>
-<h1 align="center">Thank you</h1>
+<h2 align="center">Thank you</h2>
