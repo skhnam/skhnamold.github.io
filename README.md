@@ -9,6 +9,7 @@
 ### Chop Chop👋
 
 I’m a Cloud & DevOps Engineer with a passion for infrastructure automation, cloud-native technologies, and teaching. With experience across **enterprise systems**, **cloud platforms**, and **DevOps toolchains**, I thrive on building reliable, scalable, and secure systems.
+
 ---
 ### 🧠 Intership
 **Cloud Intern**
