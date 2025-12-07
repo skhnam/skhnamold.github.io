@@ -10,7 +10,6 @@
 
 I’m a Cloud & DevOps Engineer with a passion for infrastructure automation, cloud-native technologies, and teaching. With experience across **enterprise systems**, **cloud platforms**, and **DevOps toolchains**, I thrive on building reliable, scalable, and secure systems.
 
-
 ---
 
 ## 🚀 Projects
@@ -41,4 +40,3 @@ I’m a Cloud & DevOps Engineer with a passion for infrastructure automation, cl
   <br/>
   <code>skhanam@my.bridgeport.edu</code>
 </p>
-<h2 align="center">Thank you</h2>
