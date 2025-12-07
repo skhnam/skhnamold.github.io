@@ -10,12 +10,6 @@
 
 I’m a Cloud & DevOps Engineer with a passion for infrastructure automation, cloud-native technologies, and teaching. With experience across **enterprise systems**, **cloud platforms**, and **DevOps toolchains**, I thrive on building reliable, scalable, and secure systems.
 
----
-### 🧠 Intership
-**Cloud Intern**
-🔹 NJ TRANSIT  
-📍 Newark, NJ  
-📅 June 2025 – August 2025  
 
 ---
 
@@ -34,29 +28,17 @@ I’m a Cloud & DevOps Engineer with a passion for infrastructure automation, cl
 - Fine-tuned open-source models (Dolly-v2, BLOOM-3B) for domain-specific Q&A
 - integrating BART summarization and Knowledge Graphs.
 
----
+### Connect with Me
 
-## 💼 Work Experience
-
-### 🔧 DevOps Engineer – ITOrizon Pvt Ltd  
-📍 Bangalore, India | Aug 2021 – Jun 2023  
-- Managed CI/CD pipelines and incident workflows  
-- Handled 20–30 daily tickets (Jira, ServiceNow)  
-- Reduced node failover downtime by 25%  
-
-### 🌐 Network Engineer – Cyient Ltd  
-📍 Hyderabad, India | Dec 2020 – Aug 2021  
-- Designed telecom networks using GIS  
-- Achieved EU compliance & cut approval times by 20%  
-
----
-
-## 👩‍🏫 Teaching Assistant
- **Reinforcement Learning** 
-📍 University of Bridgeport | Jan 2025 – May 2025  
-- Supported 1700+ assessments.
-- hosted live office hours and
-- co-led sessions on RL algo
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/safeena-khanam-a641a6203/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:skhanam@my.bridgeport.edu">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <br/>
+  <code>skhanam@my.bridgeport.edu</code>
+</p>
 <h1 align="center">Thank you</h1>
